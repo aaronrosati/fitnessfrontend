@@ -101,7 +101,7 @@ const App = () => {
         {/* HEADER */}
         <header className = 'site-header'>
             <div className='logo-container'>
-                <Link to ='/' className='logo'><h1>Fitness Trac.kr</h1></Link>
+                <Link to ='/' className='logo'><h1>Fitness Tracker</h1></Link>
             </div>
             <div className='link-bar'>
                 <Link to='/' className='nav-link '>Home</Link>
